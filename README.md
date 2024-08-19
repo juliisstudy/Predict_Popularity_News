@@ -7,7 +7,7 @@
 ## About the Project
 The project aims to experiment the classification models that were claimed in the paper, A Proactive Intelligent Decision Support System (IDSS) for Predicting the Popularity of Online News.
 <br/>
-### The four models:
+### The four models
 
   * Random Forest (RF)
   * Support Vector Machine (SVM) with a Radial Basis Function (RBF)
